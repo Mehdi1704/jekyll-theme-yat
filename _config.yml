@@ -1,5 +1,5 @@
 - name: Jekyll Deploy Action
-  uses: jeffreytse/jekyll-deploy-action@v0.6.0
+- uses: jeffreytse/jekyll-deploy-action@v0.6.0
 
 
 # Welcome to Jekyll!
