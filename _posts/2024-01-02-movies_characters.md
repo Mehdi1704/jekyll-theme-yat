@@ -21,24 +21,15 @@ From iconic underdogs who overcome insurmountable odds to layered villains who b
 
 ---
 
-### Cult Characters – The Heart of Timeless Cinema
-
-**Key Question**: What is a cult character actually?
-
-Cult characters are the lifeblood of iconic cinema, transcending their stories to become symbols of rebellion, tragedy, and humanity. Unlike conventional heroes and villains, cult characters defy expectations, offering audiences layers of complexity that make them unforgettable. From the morally ambiguous to the fiercely relatable, they challenge archetypes and resonate with viewers on a personal level, standing the test of time.
-
-> _Visualization Idea_: A timeline highlighting iconic cult characters across different decades, A word cloud of iconic quotes from cult characters.
-
----
-
 ### The Rise of Sympathetic Villains: Redefining the Cinema Landscape
+
 **Key Question**: How has the rise of sympathetic villains reshaped audience engagement and storytelling in cult classics?
 
 The archetype of the traditional hero has long dominated cinema. However, in recent years, a compelling shift has emerged: the rise of the sympathetic villain. These characters challenge our understanding of morality, blending virtuous intentions with questionable actions. By blurring the lines between good and evil, they evoke empathy and provoke thought, making them some of the most captivating figures in modern storytelling.
 
 **Sympathy in Complexity: The Villain We Can Relate To**
 
-From Killmonger in *Black Panther* to The Joker in *The Dark Knight*, sympathetic villains embody deeply human struggles—loss, inequality, and redemption. Audiences resonate with their layered narratives, where motives are often driven by a personal sense of justice or societal flaws.
+From Killmonger in _Black Panther_ to The Joker in _The Dark Knight_, sympathetic villains embody deeply human struggles—loss, inequality, and redemption. Audiences resonate with their layered narratives, where motives are often driven by a personal sense of justice or societal flaws.
 
 Unlike traditional villains, who are easily categorized as the "bad guys," these characters force us to confront our own values and biases. Their popularity underscores a cultural shift toward narratives that reflect the complexities of the human condition.
 
@@ -47,7 +38,6 @@ Unlike traditional villains, who are easily categorized as the "bad guys," these
           style="width: 100%; height: 600px; border: none; pointer-events: auto;">
   </iframe>
 </div>
-
 
 By analyzing character sentiment data, we observe a decline in traditional hero narratives and a growing prominence of villains—particularly sympathetic villains—in cult classics. This trend reflects an audience preference for nuanced storytelling, where the lines between heroism and villainy are beautifully blurred.
 
@@ -60,7 +50,6 @@ Sympathetic villains are not just rising in number; they are reshaping the villa
           style="width: 100%; height: 600px; border: none; pointer-events: auto;">
   </iframe>
 </div>
-
 
 Sympathetic villains have indeed become a dominant subgenre.
 
@@ -84,7 +73,7 @@ Cult classics are defined not just by their passionate fan bases but also by the
 
 While reviews reflect the breadth of a movie's audience engagement, IMDb ratings offer a measure of the depth of its critical and fan appreciation. Together, these metrics highlight the unique combination of popularity and quality that elevates certain films to cult status.
 
-Films like *The Godfather*, *The Dark Knight*, and *Forrest Gump* continue to dominate discussions and hold their place among the top-rated movies of all time.
+Films like _The Godfather_, _The Dark Knight_, and _Forrest Gump_ continue to dominate discussions and hold their place among the top-rated movies of all time.
 
 **The Most Reviewed Movies: A Reflection of Fan Engagement**
 
@@ -94,7 +83,7 @@ Some movies resonate so deeply with audiences that they become endlessly discuss
 
 The visualization above showcases the movies with the most written reviews, revealing:
 
-**Fan-Fueled Conversations:** Films like *The Shawshank Redemption* and *Fight Club* demonstrate how storytelling, memorable characters, and thought-provoking themes can keep fans talking for decades.
+**Fan-Fueled Conversations:** Films like _The Shawshank Redemption_ and _Fight Club_ demonstrate how storytelling, memorable characters, and thought-provoking themes can keep fans talking for decades.
 
 **Genre Diversity:** From dramas to science fiction, cult classics span a wide range of genres, showing that audience engagement is not confined to any single type of film.
 
@@ -123,11 +112,53 @@ By examining these metrics, we can see how cult classics evolve beyond mere ente
 
 **What’s Next:** As the digital era continues to reshape audience engagement, how will the metrics of reviews and ratings evolve? Will future cult classics rely more heavily on real-time feedback, or will timeless storytelling always reign supreme?
 
+---
+
+### The Evolution of Cult Classics: A Journey Through Iconic Films
+
+**Key Question**: Who are the key visionaries behind cult classics, and how have these legendary films evolved over the decades?
+
+Cult movies hold a special place in the hearts of audiences worldwide, transcending time and cultural boundaries to become iconic symbols of storytelling and creativity. From timeless classics to modern masterpieces, these films not only define their eras but also showcase the vision and artistry of the directors behind them.
+
+Using platforms like IMDb and Oscar award data, we’ll explore how popular movies have evolved across the decades, highlighting the enduring appeal of Oscar-winning films and the creative brilliance of their directors. Through this journey, we aim to uncover the stories, trends, and key contributors that have shaped the legacy of cult classics over time.
+
+**_Mapping Popular Movies Across the World: A Look Through the Decades_**
+
+Movies have long been a mirror to society, reflecting the cultural and artistic achievements of different regions. By examining the number of reviews for popular movies over the decades, we can uncover how different countries have contributed to global cinema. Through an interactive world map, we’ll highlight the regions that have produced the most reviewed films in each decade, offering insights into how cinematic influence and public appeal have evolved across the globe.
+
+<div style="width: 100%; max-width: 900px; margin: auto;">
+  <iframe src="{{ site.baseurl }}/assets/plots/movies_map.html" 
+          style="width: 100%; height: 600px; border: none; pointer-events: auto;">
+  </iframe>
+</div>
+
+Over the decades, cinema’s journey began with the United States at its heart, as Hollywood established itself as the birthplace of popular and cult classics. As the art of filmmaking evolved, other regions around the world, from Europe to Asia, began to leave their mark, creating stories that captivated audiences locally and internationally. Yet, despite this global growth, the USA has remained the centerpiece of cinematic influence, consistently producing movies that draw the most attention and reviews, solidifying its role as the enduring leader of popular and cult films.
+
+While popular movies captivate audiences worldwide, it’s the creative minds behind them that truly shape their legacy. In the next section, we’ll dive into Oscar-winning films to uncover how a handful of visionary directors have repeatedly crafted masterpieces that define cult cinema. By analyzing their contributions, we’ll highlight the remarkable connection between these directors and the enduring appeal of their films.
+
+**_Directors Behind the Magic: The Architects of Cult Classics_**
+
+Behind every cult classic lies the vision of a director who brings unforgettable stories to life. In the world of cinema, some directors stand out not only for their creative brilliance but also for their ability to craft films that consistently resonate with audiences and critics alike. The plot ahead highlights the directors with the most Oscar-winning films and showcases their respective masterpieces, along with the number of reviews these movies have garnered. By exploring their contributions, we can see how these filmmakers have shaped the cinematic landscape and cultivated a lasting connection with audiences.
+
+<div style="width: 100%; max-width: 900px; margin: auto;">
+  <iframe src="{{ site.baseurl }}/assets/plots/top_20_directors_movies.html" 
+          style="width: 100%; height: 600px; border: none; pointer-events: auto;">
+  </iframe>
+</div>
+
+As the plot reveals, directors like Peter Jackson, Christopher Nolan, and Steven Spielberg lead the list, with their Oscar-winning films also attracting a significant number of reviews. These directors have not only mastered the art of storytelling but have consistently produced movies that resonate deeply with both critics and the public. For instance, Peter Jackson’s _The Lord of the Rings_ trilogy stands out for its overwhelming popularity and cultural impact, while Christopher Nolan’s _Inception_ and _Interstellar_ demonstrate his ability to merge intellectual depth with widespread appeal. Spielberg remains a cornerstone of cinema, with timeless classics like _Jurassic Park_ and _Saving Private Ryan_ further cementing his legacy.
+
+**What’s Next:** As we reflect on the evolution of cult classics and the visionary directors behind them, the question arises: how will future filmmakers redefine this legacy? Will emerging voices from around the world continue to expand the boundaries of storytelling, or will Hollywood maintain its dominance in shaping global cinematic trends? The journey of cult classics is far from over, and as new narratives and styles emerge, the enduring appeal of these films will undoubtedly continue to evolve, captivating audiences for generations to come.
+
+---
+
 ### Conclusion
 
-Cult classics and their iconic characters are more than just movies or fictional creations—they are cultural phenomena that resonate across generations. These films and characters transcend their initial reception, often defying conventions to forge deep, lasting connections with audiences. By blending cinematic history with data-driven insights, we explore the unique factors behind their enduring appeal.
+Cult classics are more than just films; they are cultural milestones that transcend time, reflecting the complexities of human emotion, societal shifts, and the ever-changing landscape of storytelling. From the rise of sympathetic villains to the global recognition of highly reviewed and critically acclaimed movies, these films reveal the evolving tastes and values of audiences worldwide.
 
-From genre evolution to fan engagement, cult classics showcase the power of storytelling to transcend time, reflecting societal values and cultural shifts. Similarly, cult characters—whether antiheroes or sympathetic villains—embody the complexities of the human condition, challenging norms, evoking empathy, and leaving lasting impressions. Together, these films and characters create a symbiotic legacy that continues to captivate audiences and redefine cultural landscapes worldwide.
+The shift from traditional hero-driven narratives to morally complex characters mirrors a broader cultural movement toward embracing nuance and depth. Similarly, the most reviewed and highest-rated movies showcase the dual importance of audience engagement and critical acclaim, with timeless masterpieces.
+
+Looking ahead, the metrics of reviews and ratings may continue to evolve with advancements in digital platforms, but the essence of a cult classic will always lie in its ability to capture the hearts and minds of audiences. Whether through groundbreaking narratives, unforgettable characters, or universal themes, these films will continue to inspire, provoke, and endure.
 
 ---
 
