@@ -36,4 +36,4 @@ Adjust budgets, shuffle cast members, tweak languages or countries of origin—t
 
 Why leave your film’s destiny to chance? Step into our virtual lab, test out your ideas, and set the stage for greater success. Your next cinema triumph might be just one data-driven decision away.
 
-**Curious to see the future of your film?** Click below to try our [interactive predictor](https://moviesuccesspredictor.streamlit.app/) and start shaping your movie’s legacy today.
+**Curious to see the future of your film?** Click below to try our [interactive predictor](https://moviesuccesspredict.streamlit.app/) and start shaping your movie’s legacy today.
